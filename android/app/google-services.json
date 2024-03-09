@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373606503",
+    "project_id": "landlord-file-cabinet-43702",
+    "storage_bucket": "landlord-file-cabinet-43702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373606503:android:5e5125500177a19ea3acc2",
+        "android_client_info": {
+          "package_name": "com.example.landlord_file_cabinet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPDZ1BLzPStapHq--8Kefo33a_lF5H4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
